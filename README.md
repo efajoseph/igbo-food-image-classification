@@ -193,7 +193,7 @@ Explainability is especially important for culturally sensitive datasets.
 
 | Abacha | Egusi Soup | Okpa | Nkwobi |
 |------|------|------|------|
-| ![](images/abacha.jpg) | ![](images/egusi.jpg) | ![](images/Ji_Yam.jpg) | ![](images/Isi_Ewu.jpg) |
+| ![](images/Abacha_013.jpeg) | ![](images/Isi_Ewu_001.jpg) | ![](images/Ji_Yam_003.jpeg) | ![](images/Ofe_Egusi_006.jpeg) |
 
 ## Technologies Used
 
