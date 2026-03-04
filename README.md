@@ -191,7 +191,7 @@ Explainability is especially important for culturally sensitive datasets.
 
 ## Sample Dataset Images
 
-| Abacha | Egusi Soup | Okpa | Nkwobi |
+| Abacha | Isi Ewu | Ji Yam | Ofe Egusi |
 |------|------|------|------|
 | ![](images/Abacha_013.jpeg) | ![](images/Isi_Ewu_001.jpg) | ![](images/Ji_Yam_003.jpeg) | ![](images/Ofe_Egusi_006.jpeg) |
 
