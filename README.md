@@ -189,6 +189,12 @@ Explainability is especially important for culturally sensitive datasets.
 
 ---
 
+## Sample Dataset Images
+
+| Abacha | Egusi Soup | Okpa | Nkwobi |
+|------|------|------|------|
+| ![](images/abacha.jpg) | ![](images/egusi.jpg) | ![](images/Ji_Yam.jpg) | ![](images/Isi_Ewu.jpg) |
+
 ## Technologies Used
 
 - Python
